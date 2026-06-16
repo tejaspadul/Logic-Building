@@ -48,3 +48,13 @@ public class Prime_or_not {
             System.out.println(num+" is not Prime Number");
     }
 }
+
+/*
+Prime number means the given number is divisible by 1 or itself so its prime
+ex- 2,3,5,7,11,13,17,19....
+so look this given numbers this all are prime and if we check all are divisible by 1 and only by itself 
+
+so for checking number is prime or not we only check that number is divisible by more than 2 number if yes then its not prime and if number is only divisible by 2 then its prime
+and always remember 1 is not prime number and 2 is only even prime number
+
+*/
