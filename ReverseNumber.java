@@ -14,3 +14,12 @@ public class ReverseNumber {
         System.out.println("reverse of given num is:"+rev);
     }
 }
+
+/*
+
+how actually a reverse of number program work so in this program when we enter any number it print reversly 
+ex:- 123456789
+op:-987654321
+so for this we use while loop and in that we just put one condition while num!=0 then we just write rev = rev * 10 + num % 10
+
+*/
