@@ -21,3 +21,11 @@ public class Palindrome {
         }
     }
 }
+
+
+/* 
+What is palindrome number it means a number which is same when we reverse it its palindrome number 
+ex:- num=1221
+     rev=1221 so here we can see both number are same when we reverse original
+ex of palindrome:- 121,1221,123321,1111,223322..............
+*/
