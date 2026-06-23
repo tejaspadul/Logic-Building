@@ -13,3 +13,11 @@ public class LeapYear {
         }
     }
 }
+
+/*
+what is leap year? 
+so leap year comes after every 4 year and it should be divided by 4 or 400 is leap year
+in calender 2000,2004,2008,2012,2016.......... is leap year and
+2001,2002,2003,2005,2006,2007........... are not leap year 
+so in programming for logic building Leap year program is basic but enhance logic and thinking ability
+*/
