@@ -19,3 +19,11 @@ public class GCDProgram {
         System.out.println("GCD is:"+gcd);
     }
 }
+
+
+/*
+now what is GCD it means highest number which divide both number is gcd of both 
+if no gcd found then 1 should be greatest GCD of both number
+ex-18,12 here at starting GCD=1 then i++ and it divide both and which i divide both should be GCD of it
+here 6 should be GCD
+*/
